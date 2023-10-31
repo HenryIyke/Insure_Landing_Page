@@ -1,5 +1,5 @@
-# PluralCode Academy - Insure landing page solution
-
+# 
+PluralCode Academy - Insure landing page solution
 ## Table of contents
 
 - [PluralCode Academy - Insure landing page solution](#pluralcode-academy---insure-landing-page-solution)
