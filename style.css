@@ -2,20 +2,24 @@
 
 body {
     font-family: 'karla';
-    margin: 1rem 7rem;
+
+    margin-top: 1rem;
+
 }
 
 nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-left: 7rem;
+    margin-right: 7rem;
 }
 
 nav .nav_left {
     display: flex;
     align-items: center: ;
     justify-content: space-evenly;
-    gap: 1rem;
+    gap: 0.7rem;
 }
 
 
@@ -27,37 +31,101 @@ nav .nav_left {
     align-items: center;
     justify-content: space-between;
     gap: 2.5rem;
+    color: hsl(273, 4%, 51%);
    }
 
-   .hero_stn {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    place-content: center center;
-    margin-top: 4.5rem;
-    background-image: url(./images/bg-pattern-intro-right-desktop.svg);
-    background-position: right;
-    background-repeat: no-repeat;
-    background-color: hsl(256, 26%, 20%);
+   .nav_left button {
+    background: inherit;
+    color: black;
+    outline: none;
+    border: 2px solid black;
+    padding: 0.5rem 1rem;
+   }
 
+   .hero {
+    margin-top: 2rem;
+    height: 650px;
+   }
+
+
+   .hero_stn {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    /* align-items: start; */
+    position: relative;
+   }
+
+   .hero_stn .img_intro {
+    position: relative;
+    bottom: 23.5rem;
+    left: 42rem;
+    width: 75%;
+    height: 75%;
+   }
+
+   .hero_stn .img_overlay {
+    position: relative;
+    bottom: 67.5rem;
+    left: 57rem;
    }
 
    .first_section {
     align-items: center;
     justify-content: center;
-    margin-top: 50px;
+    background-color: hsl(256, 26%, 20%);
+    padding-top: 4rem;
+    padding-bottom: 4rem;
    }
 
    .first_section h1 {
-    line-height: 1.4;
+    line-height: 1;
     font-weight: 700;
     font-family: 'karla';
     font-size: 60px;
     margin-bottom: 18px;
     color: white;
+    margin-left: 7rem;
+   }
+
+   .first_section p {
+    font-weight: 400;
+    font-family: 'karla';
+    margin-top: 1.5rem;
+    color: white;
+    width: 40%;
+    font-weight: 400;
+    font-family: 'karla';
+    margin-left: 7rem;
+   }
+
+   .first_section button {
+    background: transparent;
+    color: white;
+    outline: none;
+    border: 2px solid white;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: 'karla';
+    margin-left: 7rem;
    }
 
    .about_section {
-    margin-top: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 5rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
+   }
+
+   .about_section h1 {
+    font-weight: 700;
+    font-family: 'karla';
+    font-size: 60px;
+    margin-bottom: 4rem;
+    margin-top: 7rem;
    }
 
    .snippet {
@@ -73,11 +141,14 @@ nav .nav_left {
     justify-content: space-between;
     gap: 2.5rem;
     margin-top: 5rem;
+    margin-bottom: 7rem;
     background-image: url(./images/bg-pattern-how-we-work-desktop.svg);
     background-color: hsl(256, 26%, 20%);
     background-position: right;
     background-repeat: no-repeat;
     padding: 2rem 0rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
    }
 
    .CTA_section h1 {
@@ -111,7 +182,8 @@ nav .nav_left {
     background-image: url(./images/bg-pattern-footer-desktop.svg);
     background-position: left;
     background-repeat: no-repeat;
-    margin-top: 7rem;
+    back
+    margin-top: 8rem;
     background-color: hsl(0, 0%, 98%);
    }
 
@@ -127,6 +199,8 @@ nav .nav_left {
     gap: 3rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
     }
 
     .bottom_section h3, li {
@@ -138,6 +212,10 @@ nav .nav_left {
     .bottom_section h3 {
         margin-bottom: 1rem;
         font-size: 16px;
+        color: hsl(273, 4%, 51%);
+    }
+
+    .snippet small {
         color: hsl(273, 4%, 51%);
     }
 

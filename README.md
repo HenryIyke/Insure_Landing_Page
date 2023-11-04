@@ -7,10 +7,12 @@ PluralCode Academy - Insure landing page solution
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
+  - [My process]()
+      I started by giving my HTML the necessary structure.
+      Next was Styling the various elements
+    - [Built with](#HTML)(#CSS)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
-  - [Author](#author)
+  - [Author](#Henry)
   - [Acknowledgments](#acknowledgments)
