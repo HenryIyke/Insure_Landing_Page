@@ -17,12 +17,13 @@ PluralCode Academy - Insure landing page solution
     -Flexbox
     - CSS Grid
   - [What I learned](#what-i-learned)
+    - I learnt how to properly use position CSS
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-      -https://www.codingninjas.com/studio/library/image-hover-effects-in-css
-      -https://zapier.com/blog/beginner-ultimate-guide-markdown/
-      -www.shecodes.io/athena/1703
-      -www.hyperise.com
+    -https://www.codingninjas.com/studio/library/image-hover-effects-in-css
+    -https://zapier.com/blog/beginner-ultimate-guide-markdown/
+    -www.shecodes.io/athena/1703
+    -www.hyperise.com
   - [Author](#Author)
     Henry
   - [Acknowledgments](#acknowledgments)
