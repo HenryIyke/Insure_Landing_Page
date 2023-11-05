@@ -14,5 +14,9 @@ PluralCode Academy - Insure landing page solution
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
-  - [Author](#Henry)
+      https://www.codingninjas.com/studio/library/image-hover-effects-in-css
+      https://zapier.com/blog/beginner-ultimate-guide-markdown/
+  - [Author](#Author)
+    Henry
   - [Acknowledgments](#acknowledgments)
+    Simply like to acknoeledge myself because I put in the work
