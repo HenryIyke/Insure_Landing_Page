@@ -10,12 +10,19 @@ PluralCode Academy - Insure landing page solution
   - [My process]()
       I started by giving my HTML the necessary structure.
       Next was Styling the various elements
-    - [Built with](#HTML)(#CSS)
+      After the default styling, I styled the active states
+    - [Built with](#HTML)
+    - Semantic HTML5 markup
+    - CSS custom properties
+    -Flexbox
+    - CSS Grid
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
       https://www.codingninjas.com/studio/library/image-hover-effects-in-css
       https://zapier.com/blog/beginner-ultimate-guide-markdown/
+      www.shecodes.io/athena/1703
+      www.hyperise.com
   - [Author](#Author)
     Henry
   - [Acknowledgments](#acknowledgments)

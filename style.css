@@ -2,7 +2,7 @@
 
 body {
     font-family: 'karla';
-
+    overflow-x: hidden;
     margin-top: 1rem;
 
 }
@@ -85,7 +85,7 @@ nav .nav_left {
 
    .hero_stn .img_overlay {
     position: relative;
-    bottom: 67.5rem;
+    bottom: 69.5rem;
     left: 57rem;
    }
 
@@ -219,8 +219,10 @@ nav .nav_left {
 
    .CTA_section button:hover {
     color: black;
-    background: white !important;
+    background: white;
    }
+
+
 
    .socials ul {
     display: flex;
