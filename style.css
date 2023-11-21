@@ -290,4 +290,63 @@ nav .nav_left {
     }
 
     
+/* } Media wuery */
+
+@media only screen and (max-width: 740px){
+
+    .body {
+        margin: 1rem 1rem;
+    }
+    .snippet{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 1rem 1rem;
+    }
+
+    .snippet div h3, small {
+        text-align: center;
+    }
+
+    .snippet div img {
+        align-items: center;
+        justify-content: center;
+        margin-left: 9rem;
+    }
+
+    .about_section {
+        width: 100%;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }       
+
+    .hero_stn .img_intro {
+
+        bottom: 0;
+        left: 0;
+        width: 75%;
+        height: 75%;
+       }
+    
+       .hero_stn .img_overlay {
+
+        bottom: 0rem;
+        left: 0rem;
+       }
+   
+       .footer_nav{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+       }
+
+       .bottom_section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+       }
 }
