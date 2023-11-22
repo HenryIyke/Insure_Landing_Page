@@ -340,7 +340,7 @@ nav .nav_left {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-
+        gap: 1rem;
        }
 
        .bottom_section {
@@ -348,5 +348,36 @@ nav .nav_left {
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        gap: 1rem;
        }
+
+       .bottom_section div div h3, .bottom_section div ul {
+        text-align: center;
+       }
+
+       .CTA_section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem
+        margin: 1rem 1rem;
+        width: 90%;
+        margin-left: 1rem
+
+        /* background-position: right;
+        background-repeat: no-repeat;
+        padding: 2rem 0rem; */
+       }
+
+       .CTA_section h1 {
+        line-height: 1;
+        /* font-weight: 700;
+        font-family: 'karla'; */
+        font-size: 30px;
+        margin-left: 0rem;
+        /* margin-bottom: 18px;
+        width: 60%;
+        color: white;
+        margin-left: 5rem; */
 }
