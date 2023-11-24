@@ -296,6 +296,7 @@ nav .nav_left {
 
     .body {
         margin: 1rem 1rem;
+        overflow-x: hidden;
     }
     .snippet{
         display: flex;
@@ -380,4 +381,45 @@ nav .nav_left {
         width: 60%;
         color: white;
         margin-left: 5rem; */
+       }
+
+       .CTA_section h1, a button {
+        text-align: center;
+       }
+
+       .first_section h1 {
+        font-size: 45px;
+        margin-bottom: 18px;
+        margin-left: 1rem;
+        text-align: center;
+       }
+    
+       .first_section p {
+        margin-top: 1.5rem;
+        width: 90%;
+        margin-left: 1rem;
+        text-align: center;
+       }
+
+       .first_section button {
+     
+       }
+
+       .about_section h1 {
+        font-size: 45px;
+        margin-bottom: 4rem;
+        margin-top: 2rem;
+       }
+
+       .first_section {
+        margin-top: 33rem;
+       }
+
+       .hero_stn .img_intro {
+        bottom: 60rem;
+        left: 0rem;
+        width: 100%;
+        height: 75%;
+       }
+
 }

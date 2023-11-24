@@ -19,12 +19,16 @@ PluralCode Academy - Insure landing page solution
   - [What I learned](#what-i-learned)
     - I learnt how to properly use position CSS
   - [Continued development](#continued-development)
+    - Position CSS
+    - How to properly Center a div
+    - Hamburger Menu Icon
   - [Useful resources](#useful-resources)
     -https://www.codingninjas.com/studio/library/image-hover-effects-in-css
     -https://zapier.com/blog/beginner-ultimate-guide-markdown/
     -www.shecodes.io/athena/1703
     -www.hyperise.com
+    www.w3school.com
   - [Author](#Author)
     Henry
   - [Acknowledgments](#acknowledgments)
-    Simply like to acknoeledge myself because I put in the work
+    Simply like to acknowledge myself because I put in the work
