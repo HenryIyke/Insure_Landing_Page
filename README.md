@@ -23,11 +23,11 @@ PluralCode Academy - Insure landing page solution
     - How to properly Center a div
     - Hamburger Menu Icon
   - [Useful resources](#useful-resources)
-    -https://www.codingninjas.com/studio/library/image-hover-effects-in-css
-    -https://zapier.com/blog/beginner-ultimate-guide-markdown/
-    -www.shecodes.io/athena/1703
-    -www.hyperise.com
-    www.w3school.com
+    -[Coding Ninjas] (https://www.codingninjas.com/studio/library/image-hover-effects-in-css)
+    -[Zapier] (https://zapier.com/blog/beginner-ultimate-guide-markdown/)
+    -[She Codes] (www.shecodes.io/athena/1703)
+    -[Hyperise] (www.hyperise.com)
+    -[W3School] (www.w3school.com)
   - [Author](#Author)
     Henry
   - [Acknowledgments](#acknowledgments)
